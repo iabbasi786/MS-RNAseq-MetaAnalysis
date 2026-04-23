@@ -50,3 +50,14 @@ DESeq2, ggplot2, GEOquery - all installation instructions are in the scripts.
 ## Next steps
 Batch correction, dataset integration, differential expression analysis 
 and pathway enrichment analysis.
+
+## GAI Declaration
+
+This project used AI assistance (Claude, Anthropic, Sonnet 4.6) for:
+- Code writing, debugging and explanation
+- Poster design ideas
+- Writing support and feedback
+
+All biological interpretations, analysis decisions, and 
+scientific conclusions are my own. All code was reviewed, 
+understood and validated before use.
